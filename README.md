@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi~
+
+Fighting！[个人博客](https://SmileSmith.github.io/)
+
+[![smith's github stats](https://github-readme-stats.vercel.app/api?username=SmileSmith&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileSmith&hide=less,html&layout=compact&locale=cn)](https://SmileSmith.github.io/list/)
+
+
+![](https://komarev.com/ghpvc/?username=SmileSmith&color=ff69b4&label=PV+Since+2021-01-01)
 
 <!--
 **SmileSmith/SmileSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
